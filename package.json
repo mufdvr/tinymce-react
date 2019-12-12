@@ -1,9 +1,9 @@
 {
-  "name": "@tinymce/tinymce-react",
+  "name": "@merchx/tinymce-react",
   "version": "3.3.2",
   "description": "Official TinyMCE React Component",
   "repository": {
-    "url": "https://github.com/tinymce/tinymce-react"
+    "url": "https://github.com/mufdvr/tinymce-react"
   },
   "files": [
     "lib",
