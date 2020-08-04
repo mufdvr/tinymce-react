@@ -26,7 +26,7 @@
   },
   "keywords": [],
   "author": "Tiny Technologies",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "dependencies": {
     "prop-types": "^15.6.2"
   },
